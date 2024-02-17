@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215899000032",
+    "project_id": "statusquotesapp",
+    "storage_bucket": "statusquotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215899000032:android:fad25fc713e98dcd889485",
+        "android_client_info": {
+          "package_name": "com.example.statusquotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5F1R8Duskkr2Z0KKEMq04cLiJG8eu4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

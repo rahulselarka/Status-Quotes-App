@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StatusQuotesApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary base color. -->
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary base color. -->
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Base.Theme.UploadActivity" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary base color. -->
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary base color. -->
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.StatusQuotesApp" parent="Base.Theme.StatusQuotesApp" />
+</resources>
